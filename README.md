@@ -4,6 +4,12 @@ A cheeky subscription-cancel flow where **"Yes, cancel"** shrinks and dodges you
 
 Built with Next.js 15, React 19, and Tailwind CSS. No confetti library, no animation library, no dark-pattern library. Just a few divs and some CSS keyframes.
 
+> ⚠️ **This is a joke. Please don't send this to regulators.**
+>
+> It's a 100% parody / weekend-fun project — not a real cancel flow, not shipped in a real product, not charging anyone real money. Nobody is actually being prevented from cancelling anything.
+>
+> Real products should **not** do this. The EU's Digital Services Act and consumer-protection rules (and the US FTC's "click-to-cancel" rule) specifically target UI that makes cancellation harder than signup — and they are right to. If you're building an actual SaaS, please make cancellation a single boring button. No dragons.
+
 ## The gag
 
 1. User clicks **Cancel subscription** on a fake billing page.
